@@ -7,8 +7,6 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-GH C FRTU
-BYHJ FCV
 
 export default {
   name: 'App',
